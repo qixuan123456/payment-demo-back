@@ -8,9 +8,7 @@ import com.qx.paymentdemo.enums.OrderStatus;
 import com.qx.paymentdemo.mapper.OrderInfoMapper;
 import com.qx.paymentdemo.mapper.ProductMapper;
 import com.qx.paymentdemo.service.OrderInfoService;
-import com.qx.paymentdemo.service.ProductService;
 import com.qx.paymentdemo.util.OrderNoUtils;
-import com.sun.tools.corba.se.idl.constExpr.Or;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
